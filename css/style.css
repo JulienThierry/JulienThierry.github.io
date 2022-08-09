@@ -60,7 +60,7 @@ nav li:last-child::before {
 }
 
 header {
-  background: url(./assets/img/bg.jpg) center/cover fixed;
+  background: url(../assets/img/bg.jpg) center/cover fixed;
   height: 75vh;
   display: flex;
   align-items: center;
