@@ -381,7 +381,7 @@ footer h3 {
     display: none;
   }
   header {
-    background: url(./assets/img/bg.jpg) center/cover;
+    background: url(../assets/img/bg.jpg) center/cover;
     height: 40vh;
   }
   .main-header {
