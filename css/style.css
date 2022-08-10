@@ -490,7 +490,7 @@ footer h3 {
 }
 
 @media screen and (max-height: 650px) {
-  .main-news {
+  .news-part {
     height: 120vh;
   }
 }
