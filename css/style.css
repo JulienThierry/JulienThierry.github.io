@@ -489,6 +489,12 @@ footer h3 {
   }
 }
 
+@media screen and (max-height: 650px) {
+  .main-news {
+    height: 120vh;
+  }
+}
+
 @media screen and (max-width: 450px) {
   .main-header {
     width: 100%;
